@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">TokoLaptop</string>
+
+    <string name="view_button">Change View</string>
+    <string name="tokolaptop_aja">Beli Laptop di TokoLaptop aja!</string>
+    <string name="price">Harga Laptop</string>
+    <string name="description">Lorem ipsum dolor sit amet.</string>
+    <string name="product_name">Nama Laptop</string>
+    <string name="deskripsi_produk">Deskripsi Produk</string>
+    <string name="spesifikasi">Spesifikasi</string>
+    <string name="cpu">CPU</string>
+    <string name="memory">Memory</string>
+    <string name="storage">Storage</string>
+    <string name="gpu">GPU</string>
+    <string name="display">Display</string>
+    <string name="deskripsi_isi">Ini isi dari deskripsi</string>
+    <string name="harga_isi">Rp0</string>
+    <string name="title_product">Nama Laptop</string>
+    <string name="profile_email">mdaffaaldriantama@gmail.com</string>
+    <string name="profile_name">Muhammad Daffa Aldriantama</string>
+    <string name="send_email">Send Email!</string>
+
+    <string-array name="data_name">
+        <item>Asus ROG Zephyrus 14</item>
+        <item>Asus ROG Zephyrus G15</item>
+        <item>Razer Blade 17</item>
+        <item>Alienware x14</item>
+        <item>HP 15</item>
+        <item>Asus TUF A15</item>
+        <item>Apple MacBook Air M2 2022</item>
+        <item>Asus ROG Flow X16</item>
+        <item>HP EliteBook 845 G9</item>
+        <item>Lenovo Yoga Book 9i</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/asus_rog_14</item>
+        <item>@drawable/asus_rog_g15</item>
+        <item>@drawable/razer_blade_17</item>
+        <item>@drawable/alienware_x14</item>
+        <item>@drawable/hp_15</item>
+        <item>@drawable/tuf_a15</item>
+        <item>@drawable/apple_m2_2022</item>
+        <item>@drawable/rog_flow_x16</item>
+        <item>@drawable/hp_elitebook_845_g9</item>
+        <item>@drawable/lenovo_yoga_book_9i</item>
+    </string-array>
+
+    <string-array name="data_price">
+        <item>Rp25.000.000</item>
+        <item>Rp30.000.000</item>
+        <item>Rp44.000.000</item>
+        <item>Rp26.000.000</item>
+        <item>Rp9.000.000</item>
+        <item>Rp15.500.000</item>
+        <item>Rp16.500.000</item>
+        <item>Rp27.999.000</item>
+        <item>Rp30.499.000</item>
+        <item>Rp32.000.000</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Laptop ini dapat dispesifikasikan dengan prosesor seluler Ryzen 6900HS 8-core, 16-thread dan grafis RX 6800S, yang kinerjanya sebanding dengan ponsel RTX 3080, jadi Anda akan mendapatkan hasil maksimal dari layar 120Hz-nya. Selain desainnya yang cantik, ada opsi untuk menambahkan 1.215 mini-LED ke sampul luar melalui tampilan AniMe Matrix.\n\n
+Asus ROG Zephyrus G14 juga ringan dengan berat 3,6 pound, dan layar QHD 16:10 14 inci adalah ukuran yang nyaman untuk digunakan saat bepergian.</item>
+        <item>Semua model Zephyrus G15 hadir dengan CPU AMD 8-core, 16-thread Ryzen 9 6900HS dan dapat dispesifikasikan hingga RTX 3080. Anda juga dapat memilih tampilan 1080p atau 1440p dan kecepatan refresh hingga 300Hz. Laptop ini juga memiliki engsel 180 derajat ErgoLift yang mengesankan.</item>
+        <item>Seperti laptop Blade lainnya, pembeli memiliki berbagai pilihan perangkat keras untuk dipilih, seperti layar 144Hz hingga 360Hz, hingga RTX 3080 Ti dan Core i9-12900H, RAM DDR5 32GB (4800 MHz), dan FullHD/1440p/4K. Semua itu berarti Anda akan menikmati permainan dengan penelusuran sinar setelah Anda selesai mengerjakannya.\n\n
+Laptop juga punya pilihan port yang luas yang mencakup tiga USB-A, dua USB-C dengan Thunderbolt 4, pembaca kartu SD, Ethernet, output HDMI, delapan rangkaian speaker multi-driver, SSD Gen4 M.2 yang cepat, webcam 1080p, Wi-Fi 6E, dan Bluetooth 5.2. Razer juga menggabungkan perangkat lunak produktivitas dengan setiap pembelian.</item>
+        <item>Selain RTX 3060, Alienware x14 dapat dikemas dengan Core i7-12700H, LPDDR5 5200MHz 32GB, dan penyimpanan M.2 PCIe hingga 4TB. Anda juga mendapatkan pendingin ruang uap dan kontrol kipas cerdas untuk menjaga semuanya tetap dingin di ruang terbatas itu.</item>
+        <item>HP 15 merupakan laptop gaming dengan harga di bawah Rp 10 juta. Laptop ini adir dengan membawa prosesor Intel Core i5-1135G7 dengan kecepatan clock 4.2GHz, menjadikannya prosesor yang layat untuk game standar. Selain itu, pengalaman bermain game ditingkatkan dengan kartu grafis Intel Iris Xe terintegrasi yang mengungguli grafik UHD biasa.</item>
+        <item>
+Anda senang bermain game? Ada kabar gembira. Asus menghadirkan varian laptop gaming murah-meriah terbarunya yakni seri TUF Gaming A15 FX506. Di official store AMD Indonesia di Tokopedia, produk ini sudah bisa dibeli di harga Rp15,499 juta. Harganya pun sedang discount dari Rp15,799. Lumayan.\n\n
+Eits, kalau Anda berpikir harganya mahal, tunggu dulu. Asus TUF Gaming A15 FX506 sudah diperkuat oleh prosesor AMD paling hebat saat ini yakni dari lini Ryzen 4000 series. Prosesor tersebut, merupakan prosesor PC pertama di dunia yang dibuat dengan teknologi 7 nanometer.\n\n
+Dengan teknologi manufaktur baru, selain prosesor bisa dibuat lebih hemat energi, performanya pun meningkat sangat jauh dibanding versi sebelumnya. Bahkan prosesor AMD di seri ini akhirnya berhasil mengalahkan performa prosesor Intel terbaik yang ada di pasaran. Luar biasa bukan?\n\n
+Dari sisi performa, laptop yang kita uji coba kali ini menggunakan prosesor AMD Ryzen 4800H yang memiliki 8 core dengan 16 thread. Kecepatannya bervariasi, mulai dari 2,9GHz dan bisa bekerja hingga kecepatan 4,2GHz jika dibutuhkan. Prosesor ini, dalam pengujian khususnya dalam kondisi multi core, mampu melampaui performa prosesor Intel Core i7-10750H terbaru.\n\n
+Untuk grafisnya, laptop yang kami pilih ini diperkuat oleh Nvidia GeForce RTX2060 yang punya 6GB GDDR6 VRAM. Performanya bukan main-main. Dari pengujian benchmark, hasil yang didapatkan cukup tinggi.
+        </item>
+        <item>Mau beli laptop? Apple MacBook Air M2 2022 bisa jadi pilihannya. Laptop dengan berat 1.24kg ini memiliki layar 13.6" dan resolusi 2560 x 1664pixels. Spesifikasinya juga dilengkapi dengan tipe penyimpanan SSD yang tergolong mumpuni untuk kebutuhan pemakaianmu sehari-hari. Yuk, langsung saja dapatkan harga Apple MacBook Air M2 2022 yang termurah mulai dari IDR15999000 melalui TokoLaptop.</item>
+        <item>Perkenalkan, ini adalah perangkat 2-in-1 dengan Hardware Laptop Gaming di dalamnya. Jadi perangkat ini bisa digunakan sebagai Laptop ataupun Tablet. Prosesornya AMD Ryzen 6000 Series, discrete GPU-nya RTX 30 Series, RAM-nya sudah pakai DDR5, SSD-nya PCIe Gen 4 dengan kapasitas 1 TB dan bisa ditambah lagi, layarnya QHD+ 165 Hz 100% DCI-P3.</item>
+        <item>
+            Bekerja di cafe atau ruang selain kantor kini sudah lumrah dilakukan oleh banyak orang. Tapi tentu membutuhkan laptop yang cocok untuk dapat mengakomodasi segala pekerjaan. Salah satunya HP EliteBook 845 G9 yang sudah dibekali dengan spesifikasi yang mumpuni. Salah satu keunggulannya adalah prosesor AMD Ryzen 6000 Series.\n\n
+HP EliteBook 845 G9 dibekali prosesor AMD Ryzen 9 PRO 6950HS octa-core generasi Rembrandt ditandemkan RAM sebesar 16GB DDR5. Sangat mampu menangani beban kerja tinggi dengan konsumsi daya yang efisien. Pas banget untuk kamu kalangan pebisnis dan profesional.
+        </item>
+        <item>
+            Laptop dengan konsep layar ganda memang bukan hal baru. Tapi, lewat YOGA Book 9i Lenovo kini menaikkan standar laptop layar ganda dengan visual yang lebih imersif.\n\n
+            Di sektor desain YOGA Book 9i terlihat mirip dengan varian YOGA 9i. Rancangan bodinya mengusung desain comfort edge yang membulat di setiap sisinya. Tampilannya juga semakin cantik dengan lapisan warna Tidal Teal yang tidak pasaran.\n\n
+            Saat laptop ini dibuka Anda akan langsung menemukan dua panel layar. Tidak ada keyboard. YOGA Book 9i adalah laptop konvertibel pertama di dunia yang membawa dua panel layar sentuh OLED berukuran 13.3 inci dengan rasio aspek 16:10. Resolusi layarnya 2.8K lengkap dengan dukungan HDR, cakupan warna DCI-P3 100%, Dolby Vision dan tingkat kecerahan layar maksimum 400 nits.\n
+            Seperti YOGA 9i di bagian engsel layar bisa ditemukan soundbar. Soundbar dari pabrikan Bowers &amp; Wilkins ini terdiri dari empat speaker dengan dukungan fitur Dolby Atmos spatial audio.\n\n
+            Seperti laptop konvertibel lain YOGA Book 9i bisa digunakan ke dalam beragam mode penggunaan. Kabar baiknya, Lenovo menyediakan aksesoris keyboard bluetooth yang sekaligus dilengkapi dengan kaki peyangga. Sangat cukup untuk mengakomodir para pengguna yang tidak terbiasa menggunakan keyboard virtual.\n\n
+            Untuk spesifikasinya YOGA Book 9i ditenagai dengan prosesor Intel Core Generasi Ke-13, Intel Core i7-U15. RAM yang didukungnya 16GB dan tersedia ruang penyimpanan SSD dengan opsi hingga 1TB. Ditenagai baterai 80WHr Anda bisa mendapatkan waktu guna sekitar 10 jam untuk pemutaran video menggunakan di dua panel layarnya. Sementara, jika hanya menggunakan satu layar saja baterainya bisa hingga 14 jam.
+        </item>
+    </string-array>
+
+    <string-array name="data_cpu">
+        <item>AMD Ryzen™ 7 4800HS</item>
+        <item>AMD Ryzen™ 7 6800HS</item>
+        <item>Intel Core i7-10875H</item>
+        <item>Intel Core i7-12700H</item>
+        <item>AMD Dual-Core E2-9000e</item>
+        <item>AMD Ryzen 7 4800H</item>
+        <item>Apple M2 3.5Ghz Octa Core</item>
+        <item>AMD Ryzen 7-6800HS</item>
+        <item>AMD Ryzen 9 PRO 6950HS</item>
+        <item>13th Gen Intel Core i7-U15</item>
+    </string-array>
+
+    <string-array name="data_memory">
+        <item>16GB DDR4-3200 SO-DIMM</item>
+        <item>8GB DDR5 on board + 8GB DDR5-4800 SO-DIMM</item>
+        <item>16GB 2933 MHz DDR4</item>
+        <item>16GB LPDDR5 4800 MHz</item>
+        <item>4GB memory</item>
+        <item>8GB DDR4 3200MHz</item>
+        <item>8GB unified memory</item>
+        <item>2X 8GB</item>
+        <item>16GB DDR5 4800MHz</item>
+        <item>LPDDR5X 16GB</item>
+    </string-array>
+
+    <string-array name="data_storage">
+        <item>1TB PCIe® 3.0 NVMe™ M.2 SSD</item>
+        <item>512GB M.2 NVMe™ PCIe® 4.0 SSD</item>
+        <item>512 GB M.2 NVMe PCIe</item>
+        <item>512 GB M.2 NVMe PCIe</item>
+        <item>500 GB HDD storage</item>
+        <item>512 GB M.2 NVMe PCIe</item>
+        <item>256GB SSD</item>
+        <item>512 GB M.2 NVMe PCIe</item>
+        <item>SSD 1TB PCIe NVMe</item>
+        <item>512 GB M.2 NVMe PCIe</item>
+    </string-array>
+
+    <string-array name="data_gpu">
+        <item>NVIDIA® GeForce GTX™ 1650	4GB GDDR6</item>
+        <item>NVIDIA® GeForce RTX™ 3060</item>
+        <item>NVIDIA® GeForce RTX™ 3060</item>
+        <item>NVIDIA GeForce RTX 3050 Ti</item>
+        <item>AMD Radeon™ R2 Graphics</item>
+        <item>NVIDIA® GeForce RTX™ 2060</item>
+        <item>Apple M2 Chip</item>
+        <item>RTX 3050TI 4GB</item>
+        <item>AMD Radeon 680M iGPU</item>
+        <item>Intel Iris® Xe</item>
+    </string-array>
+
+    <string-array name="data_display">
+        <item>14-inch FHD 16:9</item>
+        <item>WQHD 165Hz</item>
+        <item>17.3" FHD 16:9</item>
+        <item>14" FHD 1920x1080 144Hz</item>
+        <item>15.6" diagonal HD</item>
+        <item>15" FHD 144Hz</item>
+        <item>13.6-inch Liquid Retina display</item>
+        <item>16 Inch QHD 165Hz</item>
+        <item>14 Inch WUXGA 1920x1200</item>
+        <item>13.3” 2.8K, 400 nits, OLED/DCI-P3 100%, 60Hz, 16:10 4-side narrow bezel (91% AAR) HDR, PureSight, Dolby Vision</item>
+    </string-array>
+</resources>

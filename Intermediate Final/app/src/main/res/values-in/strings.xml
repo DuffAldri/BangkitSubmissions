@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyStoryApp</string>
+    <string name="author_name">Nama Penulis</string>
+    <string name="description_preview">Ini adalah pratinjau deskripsi.</string>
+    <string name="add_a_story">Tambahkan cerita</string>
+    <string name="login_description">Masuk ke akun StoryApp Anda untuk mendapatkan semua fitur!</string>
+    <string name="register_description">Daftar untuk berbagi cerita dengan orang lain!</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="failed_get_stories">Gagal mendapatkan semua cerita.</string>
+    <string name="login_page_banner">Banner halaman masuk.</string>
+    <string name="register_page_banner">Banner halaman daftar.</string>
+    <string name="register_successful">Pendaftaran berhasil! Masukkan email dan password untuk masuk.</string>
+    <string name="sign_up_now"><u>Daftar sekarang!</u></string>
+    <string name="don_t_have_an_account">Belum punya akun?</string>
+    <string name="invalid_email">Bukan email yang valid!</string>
+    <string name="invalid_password">Kata sandi harus mengandung setidaknya 8 karakter!</string>
+    <string name="invalid_credentials">Email atau kata sandi tidak valid.</string>
+    <string name="failure">Terjadi kesalahan. Silakan coba lagi.</string>
+    <string name="name">Nama</string>
+    <string name="sign_up">Daftar</string>
+    <string name="already_have_an_account">Sudah punya akun?</string>
+    <string name="u_sign_in_now_u"><u>Masuk sekarang!</u></string>
+    <string name="invalid_name">Minimal 3 karakter!</string>
+    <string name="type_here">Ketik deskripsi Anda di sini</string>
+    <string name="no_permission">Tidak ada izin</string>
+    <string name="upload_failure">Upload gagal. Silakan coba lagi.</string>
+    <string name="upload_success">Upload berhasil</string>
+    <string name="logout">Keluar</string>
+    <string name="story_image">Gambar cerita</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="camera">Kamera</string>
+    <string name="retry">Coba lagi</string>
+    <string name="location_not_found">\"Location is not found. Try Again\"</string>
+</resources>
